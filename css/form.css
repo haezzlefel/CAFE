@@ -1,0 +1,148 @@
+*{
+    padding: 2px; ;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    .navbar-shop{
+        font-size: 3rem;
+        color: rgb(9, 83, 88);
+        font-family: 'Ysabeau', sans-serif;
+        text-decoration: none;
+    
+    }
+    .navbar-shop:hover{
+        color: rgb(129, 95, 23);
+    }
+    .nav-link{
+        margin-right: 15px ;
+        margin-left: 15px ;
+        color: rgb(129, 95, 23);
+        font-family: 'Ysaeau', sans-serif;
+        text-size-adjust:500px;
+        -ms-flex-order: initial;
+    }
+    .nav-link.hover{
+        color: rgb(129, 95, 23);
+    }
+    .search{
+        height: 40px;
+        width: 80%;
+        border-radius: 50px;
+        outline: none;
+        margin-right:-35px;
+        border: 2px solid rgb(129, 95, 23);
+    }
+    .btn1{
+        height: 40px;
+        width: 40%;
+        outline: none;
+        border: none;
+        background: rgb(129, 95, 23);
+        color: bisque;
+        border-radius: 60px;
+        font-weight: 700;
+    }
+    .btn1:hover{
+        background-color:rgb(129, 95, 23);
+        transition: 0.9s;
+    }
+*{
+    padding:0;
+    margin: 0;
+    box-sizing:border-box;
+}
+.row{
+    background: rgb(239, 234, 221);
+    border-radius: 30px;
+    box-shadow: wheat;
+    box-shadow: 12px 12px 22px;
+
+}
+
+.login img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.login h1{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Luckiest Guy' cursive;
+}
+.inp{
+    height: 40px;
+    width: 70%;
+    border:none;
+    outline: none;
+    border-radius: 20px;
+    box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
+    -webkit-box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
+    -moz-box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
+}
+.btn1{
+    height: 40px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background: rgb(138, 114, 66);
+    color: whitesmoke;
+}
+.btn1 :hover{
+    background: pink;
+    transition: 0.5s;
+}
+.fa-facebook{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+.fa-goggle{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.fa-twitter{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+.fa-instagram{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+.fa-phone{
+    font-size: 2.5 rem;
+    color: rgb(130, 108, 66);
+    cursor: pointer;
+}
+
+.btn3{
+    background-color: rgb(130, 108, 66);
+    color: antiquewhite ;
+    padding:10px 20px;
+    border: none;
+    font-size: 18px;
+    border-radius: 100px;
+    -webkit-border-radius:100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius:100px;
+    -o-border-radius: 100px;
+    box-shadow: 7px 10px 12px rgb(9, 83, 88); 
+}
+.btn3:hover{
+    transform: scale(1.013);
+}
+.container-time{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Luckiest Guy' cursive;   
+    
+}
+.head-count{
+    padding: 10px 15px;
+    align-items: center;
+}
+
